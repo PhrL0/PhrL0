@@ -50,15 +50,17 @@ Estudante dedicado de **Análise e Desenvolvimento de Sistemas** com formação 
 ---
 
 ### 🚀 Objetivos Profissionais  
-- Desenvolver soluções inovadoras na intersecção entre software e hardware  
-- Especializar-me em arquiteturas de sistemas distribuídos para IoT  
-- Contribuir para projetos de grande impacto através da tecnologia 
+- **Desenvolver soluções inovadoras** na convergência entre software embarcado e sistemas inteligentes  
+- **Dominar arquiteturas escaláveis** para IoT com integração de IA, combinando formação técnica e prática  
+- **Aplicar aprendizados contínuos** em projetos reais que desafiem minhas capacidades técnicas e criativas  
+- **Contribuir ativamente** em ecossistemas tecnológicos dinâmicos, absorvendo conhecimentos de profissionais experientes  
+- **Criar impacto relevante** através de tecnologias disruptivas, evoluindo minhas competências com cada desafio prático  
 
 ---
 
 ### 📩 Vamos Conversar?  
 Estou sempre aberto a oportunidades desafiadoras e colaborações criativas:  
-📬 [seu.email@provedor.com](pedrorodriguez.contato@gmail.com)  
+📬 [pedrorodriguez.contato@gmail.com]()  
 💼 [LinkedIn]([www.linkedin.com/in/pedro-henrique-812593260])  
 🐙 *Explore meus repositórios abaixo para conhecer meu trabalho prático*
 
