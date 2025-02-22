@@ -2,7 +2,7 @@
 # Pedro Leme  
 **Desenvolvedor Fullstack em Formação | Apaixonado por Tecnologia e Inovação**  
 📍 São Paulo, Brasil  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)]([inserir_link]) | 📧 [seu.email@provedor.com](mailto:seu.email@provedor.com)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)]([www.linkedin.com/in/pedro-henrique-812593260]) | 📧 [seu.email@provedor.com](pedrorodriguez.contato@gmail.com)
 
 ---
 
@@ -39,16 +39,14 @@ Estudante dedicado de **Análise e Desenvolvimento de Sistemas** com formação 
 ---
 
 ### 🏆 Projetos Destacados  
-[**Sistema de Monitoramento IoT**](link_do_projeto)  
-- Desenvolvimento de solução para coleta de dados ambientais usando ESP32 e análise em Python  
-- Stack: `C++` `Micropython` `AWS IoT Core` `Tableau`
+[**Sistema de Visão Computacional e IA para Contagem Automatizada**](https://www.linkedin.com/in/pedro-henrique-812593260/details/projects/)  
+- Desenvolvimento de um sistema de Visão Computacional e IA para contagem automatizada de calçados em esteiras, utilizando YOLOv8 para detecção de objetos, OpenCV para captura em tempo real e integração com Node-RED e WebSocket para atualização dinâmica dos dados.
+- Stack: `Python` `Node-red` `MySQl` `YoloV8` `OpenCV`
 
-[**Plataforma de Gestão Educacional**](link_do_projeto)  
-- Aplicação web fullstack para administração escolar com relatórios automatizados  
-- Stack: `Java Spring Boot` `React.js` `PostgreSQL`
-
-*Explore mais projetos no meu [Portfólio Completo](link_do_portfolio)*
-
+[**Esteira separadora de resíduos ferrosos automatizada**]()  
+- A máquina, controlada por um ESP32 programado em C++, utiliza um sensor ultrassônico para monitorar o nível de enchimento, sensores indutivos para garantir a posição correta das caixas e um sistema RFID para restringir o uso a colaboradores autorizados.  
+- Stack: `C++`
+- 
 ---
 
 ### 🚀 Objetivos Profissionais  
@@ -60,8 +58,8 @@ Estudante dedicado de **Análise e Desenvolvimento de Sistemas** com formação 
 
 ### 📩 Vamos Conversar?  
 Estou sempre aberto a oportunidades desafiadoras e colaborações criativas:  
-📬 [seu.email@provedor.com](mailto:seu.email@provedor.com)  
-💼 [LinkedIn]([inserir_link])  
+📬 [seu.email@provedor.com](pedrorodriguez.contato@gmail.com)  
+💼 [LinkedIn]([www.linkedin.com/in/pedro-henrique-812593260])  
 🐙 *Explore meus repositórios abaixo para conhecer meu trabalho prático*
 
 ---
