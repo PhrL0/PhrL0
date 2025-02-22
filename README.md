@@ -2,7 +2,7 @@
 # Pedro Leme  
 **Desenvolvedor Fullstack em Formação | Apaixonado por Tecnologia e Inovação**  
 📍 São Paulo, Brasil  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)]([www.linkedin.com/in/pedro-henrique-812593260]) | 📧 [seu.email@provedor.com](pedrorodriguez.contato@gmail.com)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)]([www.linkedin.com/in/pedro-henrique-812593260]) | 📧 [pedrorodriguez.contato@gmail.com]()
 
 ---
 
