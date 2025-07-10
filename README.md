@@ -10,7 +10,7 @@ Profissional com formação técnica em Eletroeletrônica e atuação em Anális
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Phrl0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Phrl0&theme=dark&hide_border=false)<br/>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PhrL0/PhrL0/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
