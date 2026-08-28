@@ -1,0 +1,37 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate pixel contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F9C74F&color_dots=%23171027,%234A245E,%23FF5C8A,%23FF9E4A,%23F9C74F
+
+      - name: Publish animation to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+          commit_message: "chore: update contribution snake [skip ci]"
