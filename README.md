@@ -1,208 +1,117 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:10152B,30:38205A,62:9D3F7B,82:FF6B6B,100:F6A04D&text=Pedro%20Henrique&fontSize=55&fontColor=FFF8E7&fontAlignY=37&desc=DEVOPS%20ENGINEER%20%E2%9C%A6%20CITY%20OF%20STARS&descSize=17&descAlignY=59&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0E14,55:111827,100:F5B700&text=Pedro%20Henrique&fontSize=52&fontColor=E6EDF3&fontAlignY=36&desc=DEVOPS%20ENGINEER%20%C2%B7%20DI%C3%81RIO%20DE%20BORDO&descSize=16&descAlignY=56&animation=fadeIn" alt="Banner com gradiente do preto espacial ao dourado: Pedro Henrique, DevOps Engineer, diário de bordo" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1500&color=F8D16A&center=true&vCenter=true&width=980&lines=DEVOPS+ENGINEER+%E2%9C%A6+S%C3%83O+PAULO%2C+BR;EX-EMBEDDED+SYSTEMS+%E2%9C%A6+NOW+BUILDING+PLATFORMS;FOUR+SEASONS.+ONE+JOURNEY.+MANY+DEPLOYS." alt="Typing animation" />
-
-  <br />
-
-  <a href="https://www.linkedin.com/in/pedroleme11">
-    <img src="https://img.shields.io/badge/LinkedIn-292044?style=for-the-badge&logo=linkedin&logoColor=F8D16A" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ph137163@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-FF5E88?style=for-the-badge&logo=gmail&logoColor=FFF8E7" alt="E-mail" />
-  </a>
-  <img src="https://img.shields.io/badge/São%20Paulo%2C%20Brasil-10152B?style=for-the-badge&logo=googlemaps&logoColor=58C4DD" alt="São Paulo, Brasil" />
-
-  <br /><br />
-  <sub>✦ CITY OF STARS · 👾 <i>Entre circuitos, clusters e cidades acesas à noite.</i> 👾 · CITY OF STARS ✦</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=F5B700&background=0B0E14&center=true&vCenter=true&width=640&height=44&lines=%3E+SISTEMAS+RESTAURADOS...;%3E+IDENTIFICANDO+TRIPULANTE...;%3E+PEDRO+HENRIQUE+%C2%B7+DEVOPS+ENGINEER+%C2%B7+SP%2C+BR;%3E+DE+EMBARCADOS+A+PLATAFORMAS.+STATUS%3A+OK" alt="Terminal da nave inicializando: sistemas restaurados, identificando tripulante, Pedro Henrique, DevOps Engineer em São Paulo" />
 </div>
 
-<br />
+```text
+   .        *         .            .        *          .         *
+       .         .         *        __        .    .         .
+  (O)  - - - - - - - - - - - -  >==[__]>  - - - - - - - - - - - (*)
+  SOL      *        .        .         *     ~1,2 x 10^1 a.l.   TAU CETI
+```
 
-<div align="center">
-  <code>✦ ─────── ✧ ─────── ⭐ ─────── ✧ ─────── ✦</code>
-</div>
+## 📓 Registro do tripulante
 
-## ❄️ ATO I — INVERNO
+> **Diário de bordo · registro 2026.300**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:10152B,100:38205A&text=ORIGENS%20%E2%9C%A6%20ONDE%20TUDO%20COME%C3%87OU&fontSize=16&fontColor=FFF8E7&animation=fadeIn" />
-</div>
+Os sistemas reiniciaram e a primeira coisa que voltou foi o crachá: **Pedro Henrique**, **Analista DevOps Júnior na CSD BR** desde fevereiro de 2026, base em São Paulo, Brasil.
 
-Antes de trabalhar com plataformas, comecei perto da camada física: circuitos, sensores, firmware e protocolos que precisam sobreviver ao mundo real.
+O resto da memória veio em camadas. Primeiro a física: **Eletroeletrônica**, depois **Análise e Desenvolvimento de Sistemas** e Técnico em Desenvolvimento de Sistemas pelo **SENAI**. Anos entre ESP32, Arduino, C++, MQTT, HTTP, LoRa e CAN me ensinaram a respeitar detalhes, telemetria e falhas sem glamour, porque sistema embarcado não aceita "na minha máquina funcionou".
 
-Minha base em **Eletroeletrônica**, seguida pela formação em **Análise e Desenvolvimento de Sistemas** e Técnico em Desenvolvimento de Sistemas pelo **SENAI**, me levou por ESP32, Arduino, C++, MQTT, HTTP, LoRa e CAN.
+Então veio a hipótese que mudou a rota: os princípios de confiabilidade que mantêm um dispositivo vivo valem para a plataforma inteira ao redor dele. Assim nasceu o DevOps. **Objetivo da missão:** deploys repetíveis, segredos no lugar certo, clusters observáveis e menos espaço para improviso.
 
-Foi ali que aprendi a olhar para detalhes, telemetria e falhas sem glamour — porque um sistema embarcado não aceita “na minha máquina funcionou”.
+## 🛰️ Sistemas da nave
 
-<div align="center">
-  <br />
-  <code>⭐ · ✦ · ⭐ · ✦ · ⭐ · ✦ · ⭐</code>
-</div>
+| Subsistema | Equipamento |
+| :-- | :-- |
+| ☁️ **Órbita** · cloud | ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge) |
+| 🚀 **Propulsão** · containers e orquestração | ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=F5B700) ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=F5B700) |
+| ⭐ **Navegação** · CI/CD e GitOps | ![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=F5B700) ![GitLab](https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=F5B700) ![ArgoCD](https://img.shields.io/badge/ArgoCD-111827?style=for-the-badge&logo=argo&logoColor=F5B700) |
+| 📡 **Sensores** · observabilidade | ![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F5B700) ![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=F5B700) |
+| 🧪 **Laboratório** · dados e infra distribuída | ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-111827?style=for-the-badge&logo=apachecassandra&logoColor=F5B700) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=F5B700) |
+| ☀️ **Suporte de vida** · sistema | ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=F5B700) |
+| 🔬 **Módulo de origem** · raízes embarcadas | ![C++](https://img.shields.io/badge/C%2B%2B-E23D28?style=for-the-badge&logo=cplusplus&logoColor=E6EDF3) ![Arduino](https://img.shields.io/badge/Arduino-E23D28?style=for-the-badge&logo=arduino&logoColor=E6EDF3) ![ESP32](https://img.shields.io/badge/ESP32-E23D28?style=for-the-badge&logo=espressif&logoColor=E6EDF3) ![MQTT](https://img.shields.io/badge/MQTT-E23D28?style=for-the-badge&logo=mqtt&logoColor=E6EDF3) |
 
-## 🌸 ATO II — PRIMAVERA
+## 🧪 Experimentos em andamento
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:38205A,100:9D3F7B&text=A+VIRADA%20%E2%9C%A6+DO+EMBARCADO+PARA+O+DEVOPS&fontSize=16&fontColor=FFF8E7&animation=fadeIn" />
-</div>
+**EXPERIMENTO #1 — Sealed Secrets → External Secrets Operator** · Status: 🟢 padrão aplicado em 3 × 10⁰ ambientes
 
-A transição para DevOps aconteceu quando percebi que os mesmos princípios de confiabilidade valiam para algo maior: não apenas um dispositivo, mas toda a plataforma ao redor dele.
+- **Hipótese:** segredos espalhados entre manifestos ficam mais seguros e simples de manter com uma fonte de verdade adequada ao ambiente.
+- **Procedimento:** liderei a migração de **Sealed Secrets** para **External Secrets Operator (ESO)**, com **AWS Secrets Manager** como backend, em todos os ambientes: **dev, QA e HML**.
+- **Resultados:** segredos desacoplados dos manifestos versionados · gestão centralizada e mais flexível das credenciais · fluxo alinhado ao GitOps · base mais limpa para rotação, manutenção e evolução dos ambientes.
 
-Hoje sou **Analista DevOps Júnior na CSD BR**, desde fevereiro de 2026. Meu foco é deixar a operação mais clara: deploys repetíveis, segredos no lugar certo, clusters observáveis e menos espaço para improviso.
+**EXPERIMENTO #2 — Gerenciador de nodes Cassandra** · Status: 🟢 ativo nos ambientes de QA para baixo
 
-<div align="center">
-  <br />
-  <code>✦ ─── uma nova estação começa quando a infraestrutura deixa de ser ruído ─── ✦</code>
-</div>
+- **Hipótese:** manutenção de Cassandra não pode depender de lembrete, planilha ou intervenção manual toda vez que algo precisa acontecer.
+- **Procedimento:** lidero uma ferramenta própria para gerenciar nodes Cassandra, com **agendamento automatizado de repairs**, monitoramento dos clusters e o **Cassandra Reaper** operando por trás da aplicação.
+- **Resultados:** rotinas recorrentes tratadas como processo, não como tarefa avulsa · mais visibilidade sobre o estado dos clusters · operação mais previsível nos ambientes não produtivos · menos atrito para quem cuida da plataforma no dia a dia.
 
-## ☀️ ATO III — VERÃO
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:9D3F7B,100:FF6B6B&text=EM+CENA%20%E2%9C%A6+STACK+E+ROTINA+DEVOPS&fontSize=16&fontColor=FFF8E7&animation=fadeIn" />
-</div>
-
-<div align="center">
-
-### ☁️ Cloud
-
-<a href="https://aws.amazon.com/">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" alt="AWS" />
-</a>
-
-### 📦 Containers & Orquestração
-
-<a href="https://www.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" />
-</a>
-<a href="https://kubernetes.io/">
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" alt="Kubernetes" />
-</a>
-
-### 🔁 CI/CD & GitOps
-
-<a href="https://www.jenkins.io/">
-  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="48" alt="Jenkins" />
-</a>
-<a href="https://about.gitlab.com/">
-  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="48" alt="GitLab" />
-</a>
-<img src="https://img.shields.io/badge/ArgoCD-292044?style=for-the-badge&logo=argo&logoColor=F8D16A" alt="ArgoCD" />
-
-### 📡 Observabilidade
-
-<a href="https://grafana.com/">
-  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="48" alt="Grafana" />
-</a>
-<a href="https://prometheus.io/">
-  <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="48" alt="Prometheus" />
-</a>
-
-### 🗄️ Dados & Infraestrutura Distribuída
-
-<img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=FFF8E7" alt="Apache Cassandra" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-10152B?style=for-the-badge&logo=apachekafka&logoColor=F8D16A" alt="Apache Kafka" />
-
-### 🐧 Sistema
-
-<a href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" alt="Linux" />
-</a>
-
-### 🔌 Raízes embarcadas
-
-<a href="https://isocpp.org/">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" alt="C++" />
-</a>
-<a href="https://www.arduino.cc/">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="48" alt="Arduino" />
-</a>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=FFF8E7" alt="ESP32" />
-<img src="https://img.shields.io/badge/MQTT-38205A?style=for-the-badge&logo=mqtt&logoColor=F8D16A" alt="MQTT" />
-
-</div>
-
-<div align="center">
-  <br />
-  <code>☀️ ✦ cloud, código, sinais e observabilidade ✦ ☀️</code>
-</div>
-
-## 🍂 ATO IV — OUTONO
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=54&color=0:FF6B6B,100:F6A04D&text=O+CL%C3%8DMAX%20%E2%9C%A6+AUTOMA%C3%87%C3%83O+COM+IMPACTO+REAL&fontSize=16&fontColor=FFF8E7&animation=fadeIn" />
-</div>
-
-### 🔐 Sealed Secrets → External Secrets Operator
-
-O gerenciamento de segredos precisava deixar de ser uma preocupação espalhada entre manifestos e ganhar uma fonte de verdade adequada ao ambiente.
-
-Liderei a migração de **Sealed Secrets** para **External Secrets Operator (ESO)**, usando o **AWS Secrets Manager** como backend e levando o novo padrão para todos os ambientes: **dev, QA e HML**.
-
-- Segredos desacoplados dos manifestos versionados.
-- Gestão centralizada e mais flexível das credenciais.
-- Fluxo alinhado ao modelo GitOps.
-- Base mais limpa para rotação, manutenção e evolução dos ambientes.
-
-### 🛠️ Gerenciamento de nodes Cassandra
-
-Nos ambientes de QA para baixo, a manutenção de Cassandra não pode depender de lembrete, planilha ou intervenção manual toda vez que algo precisa acontecer.
-
-Por isso, lidero uma ferramenta própria para gerenciar nodes Cassandra, com **agendamento automatizado de repairs**, monitoramento dos clusters e o **Cassandra Reaper** operando por trás da aplicação.
-
-- Rotinas recorrentes tratadas como processo, não como tarefa avulsa.
-- Mais visibilidade sobre o estado dos clusters.
-- Operação mais previsível nos ambientes não produtivos.
-- Menos atrito para quem cuida da plataforma no dia a dia.
-
-<div align="center">
-  <br />
-  <code>🍂 ✦ pipelines rodando, clusters observados, cidade acesa ✦ 🍂</code>
-</div>
-
-## 🌌 INTERLÚDIO — GitHub Analytics
+## 📡 Telemetria
 
 <div align="center">
   <a href="https://github.com/PhrL0">
-    <img height="175" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+      <img height="165" src="./profile/stats-dark.svg" alt="Estatísticas do GitHub de Pedro Henrique: estrelas, commits, PRs e issues" />
+    </picture>
   </a>
   <a href="https://github.com/PhrL0">
-    <img height="175" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+      <img height="165" src="./profile/top-langs-dark.svg" alt="Linguagens mais usadas nos repositórios de Pedro Henrique" />
+    </picture>
   </a>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PhrL0&locale=pt_BR&hide_border=true&background=00000000&ring=F5B700&fire=E23D28&stroke=F5B700&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FFC94A&sideLabels=E6EDF3&dates=E6EDF3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PhrL0&locale=pt_BR&hide_border=true&background=00000000&ring=F5B700&fire=E23D28&stroke=E23D28&currStreakNum=111827&sideNums=111827&currStreakLabel=E23D28&sideLabels=111827&dates=111827" />
+    <img height="165" src="https://streak-stats.demolab.com?user=PhrL0&locale=pt_BR&hide_border=true&background=00000000&ring=F5B700&fire=E23D28&stroke=F5B700&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FFC94A&sideLabels=E6EDF3&dates=E6EDF3" alt="Sequência de contribuições no GitHub: total, sequência atual e maior sequência" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhrL0/PhrL0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhrL0/PhrL0/output/github-contribution-grid-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/PhrL0/PhrL0/output/github-contribution-grid-snake-dark.svg" alt="Animação de cobra percorrendo o gráfico de contribuições do último ano" />
+  </picture>
 </div>
+
+## 📻 Canal de comunicação
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PhrL0/PhrL0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" />
+
+♪ &nbsp; frequências de contato abertas &nbsp; ♫
+
+<a href="https://www.linkedin.com/in/pedroleme11"><img src="https://img.shields.io/badge/LinkedIn-pedroleme11-111827?style=for-the-badge&labelColor=F5B700" alt="LinkedIn: pedroleme11" /></a>
+<a href="mailto:ph137163@gmail.com"><img src="https://img.shields.io/badge/E--mail-ph137163%40gmail.com-E23D28?style=for-the-badge&logo=gmail&logoColor=E6EDF3&labelColor=111827" alt="E-mail: ph137163@gmail.com" /></a>
+<img src="https://img.shields.io/badge/Base-S%C3%A3o%20Paulo%2C%20Brasil-111827?style=for-the-badge&logo=googlemaps&logoColor=F5B700&labelColor=111827" alt="Base: São Paulo, Brasil" />
+
+♫ &nbsp; ♪ &nbsp; ♫
+
 </div>
 
-<div align="center">
-  <code>✦ ─────── ✧ ─────── ⭐ ─────── ✧ ─────── ✦</code>
-</div>
-
-## 📬 CRÉDITOS FINAIS
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedroleme11">
-    <img src="https://img.shields.io/badge/LinkedIn-pedroleme11-292044?style=for-the-badge&logo=linkedin&logoColor=F8D16A" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ph137163@gmail.com">
-    <img src="https://img.shields.io/badge/ph137163%40gmail.com-FF5E88?style=for-the-badge&logo=gmail&logoColor=FFF8E7" alt="E-mail" />
-  </a>
-</div>
+<details>
+<summary>📁 <b>Arquivos confidenciais da missão</b></summary>
 
 <br />
 
+- 🎬 Gênero preferido no cinema: romance e drama. Se tem Ryan Gosling no elenco, a probabilidade de eu assistir tende a 1. A temporada anterior deste perfil se passava sob uma *City of Stars*: mesmo ator favorito, outra galáxia.
+- ♪ Maior passatempo: ouvir música, de qualquer gênero. O receptor da nave não filtra frequência.
+- 🔬 Filosofia, principalmente a existencial. Autor favorito: **Albert Camus**. Rodar o mesmo pipeline todo dia e ainda encontrar sentido nisso é praticamente um exercício de Sísifo.
+- 🔌 Antes de clusters, eram sensores: LoRa e barramento CAN estão no currículo de origem.
+- 📏 Tolerância a "na minha máquina funcionou": 0 × 10⁰.
+- 🔐 Ambientes migrados para External Secrets Operator: 3 × 10⁰ (dev, QA e HML).
+- 🌌 Distância até Tau Ceti: ~1,2 × 10¹ anos-luz. Distância até o próximo deploy: menor.
+
+</details>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1100&color=58C4DD&center=true&vCenter=true&width=980&lines=THE+END%3F+%E2%9C%A6+N%C3%A3o.+A+pr%C3%B3xima+esta%C3%A7%C3%A3o+come%C3%A7a+no+pr%C3%B3ximo+deploy.;SOB+AS+ESTRELAS%2C+A+INFRAESTRUTURA+CONTINUA+EM+MOVIMENTO." alt="Última cena" />
-
+  <br />
+  <code>🛰️ STATUS: Missão em andamento. Combustível: café. ☕</code>
   <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=PhrL0&style=for-the-badge&color=FF5E88&label=VISITAS" alt="Contador de visitas" />
-
+  <img src="https://komarev.com/ghpvc/?username=PhrL0&style=for-the-badge&color=F5B700&label=SINAIS%20RECEBIDOS" alt="Contador de visitas ao perfil" />
   <br /><br />
-
-  <code>✦ ✧ ⭐ ✧ ✦ &nbsp; fim de jornada sob um céu cheio de próximos passos &nbsp; ✦ ✧ ⭐ ✧ ✦</code>
-
-  <br /><br />
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:10152B,35:38205A,68:9D3F7B,100:F6A04D" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B0E14,55:111827,100:F5B700" alt="Banner de encerramento com gradiente do preto espacial ao dourado" />
 </div>

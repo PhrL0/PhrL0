@@ -22,21 +22,39 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate GitHub statistics card
+      - name: Generate GitHub statistics card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=10152B&title_color=F8D16A&icon_color=FF5E88&text_color=FFF8E7&ring_color=58C4DD&custom_title=Pedro%20Henrique%20%7C%20GitHub%20Stats
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&custom_title=Pedro%20Henrique%20%7C%20Telemetria%20da%20nave&title_color=F5B700&icon_color=FFC94A&text_color=E6EDF3&ring_color=E23D28
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate top languages card
+      - name: Generate GitHub statistics card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&custom_title=Pedro%20Henrique%20%7C%20Telemetria%20da%20nave&title_color=E23D28&icon_color=E23D28&text_color=111827&ring_color=F5B700
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=10152B&title_color=F8D16A&text_color=FFF8E7&langs_count=8
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&custom_title=Composi%C3%A7%C3%A3o%20do%20combust%C3%ADvel&title_color=F5B700&text_color=E6EDF3
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&custom_title=Composi%C3%A7%C3%A3o%20do%20combust%C3%ADvel&title_color=E23D28&text_color=111827
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
